@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:14:30.723601
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1e0051_WYG_021-1a>¶
 欽定四庫全書¶
 　春秋説卷二十一　　　　宋　洪咨夔　撰¶
@@ -436,4 +438,3 @@
 　子之時乗其亂進而戍也義不足以服人而乗亂以¶
 <pb:KR1e0051_WYG_021-25a>¶
 　戍人之邑豈伯舉哉故楚以救鄭書公以伐鄭至¶
-

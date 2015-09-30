@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:14:30.900837
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
 <pb:KR1e0051_WYG_030-1a>¶
 欽定四庫全書¶
 　春秋説卷三十　　　　　宋　洪咨夔　撰¶
@@ -269,4 +271,3 @@
 　行事權衡王道柱石人極尤為懇切而明白蓋天所¶
 　以續堯舜禹湯文武不傳之統在此不在彼也吁麟¶
 　非一時之瑞乃萬世之瑞歟¶
-

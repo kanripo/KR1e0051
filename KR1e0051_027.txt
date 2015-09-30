@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:14:30.841791
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR1e0051_WYG_027-1a>¶
 欽定四庫全書¶
 　春秋説卷二十七　　　　宋　洪咨夔　撰¶
@@ -311,4 +313,3 @@
 <pb:KR1e0051_WYG_027-18a>¶
 　季孫之執陽虎之竊是乃所謂危行言孫抑微其¶
 　辭以存國體也¶
-

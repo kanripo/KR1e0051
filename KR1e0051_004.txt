@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:14:30.470875
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0051_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋説卷四　　　　　　宋　洪咨䕫　撰¶
@@ -344,4 +346,3 @@
 　遲速終歸于定使大惡而可逭天地且不立矣隠薨¶
 　不地而此地隠不葬而此葬其賊在齊不在魯也葬¶
 　曰我君所以見臣子尊君親上之至情¶
-

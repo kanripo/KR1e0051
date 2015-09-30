@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:14:30.886319
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR1e0051_WYG_029-1a>¶
 欽定四庫全書¶
 　春秋說卷二十九　　　　宋　洪咨夔　撰¶
@@ -277,4 +279,3 @@
 　間其不稱公子猶齊小白入于齊天倫泯矣¶
 冬仲孫何忌帥師伐邾¶
 宋向巢帥師伐曹¶
-

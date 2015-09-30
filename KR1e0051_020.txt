@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:14:30.707953
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR1e0051_WYG_020-1a>¶
 欽定四庫全書¶
 　春秋説卷二十　　　　　宋　洪咨夔　撰¶
@@ -315,4 +317,3 @@
 　整整豈羣臣謀慮所及哉天資髙也是盟襄公以居¶
 　喪故不㑹晉亦不必其㑹於是乎有禮¶
 丁未葬我君成公¶
-

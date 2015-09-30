@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:14:30.673295
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1e0051_WYG_018-1a>¶
 欽定四庫全書¶
 　春秋説卷十八　　　　　宋　洪咨夔　撰¶
@@ -324,4 +326,3 @@
 楚公子嬰齊帥師伐鄭¶
 冬季孫行父如晉¶
 晉欒書帥師救鄭¶
-

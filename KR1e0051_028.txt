@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:14:30.866678
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR1e0051_WYG_028-1a>¶
 欽定四庫全書¶
 　春秋説卷二十八　　　　宋　洪咨夔　撰¶
@@ -329,4 +331,3 @@
 <pb:KR1e0051_WYG_028-19a>¶
 　邾庶其以漆來奔有年矣今而城之将有事乎邾也¶
 　邾奔喪屬邇已動陵偪之謀季氏用心之險如此¶
-

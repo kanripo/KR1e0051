@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:14:30.647051
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1e0051_WYG_016-1a>¶
 欽定四庫全書¶
 　春秋説卷十六　　　　　宋　洪咨夔　撰¶
@@ -259,4 +261,3 @@
 　方同遽異者勢之同非心之同也故卿皆人之¶
 宋師伐陳衛人救陳¶
 　陳有大罪然非有瑕之宋所得討宜乎衛以救書¶
-

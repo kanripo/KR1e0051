@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:14:30.634758
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1e0051_WYG_015-1a>¶
 欽定四庫全書¶
 　春秋說卷十五　　　　　宋　洪咨夔　撰¶
@@ -244,4 +246,3 @@
 　不聘止公不敢以非所當立詰公㑹不與盟竟以賂¶
 　解晉何以為盟主魯惟恃賂以立國其何以能國哉¶
 　是㑹盖春秋之所深痛¶
-

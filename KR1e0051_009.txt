@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪氏春秋說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:14:30.544515
+#+PROPERTY: ID KR1e0051
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0051_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋說卷九　　　　　　宋　洪咨夔　撰¶
@@ -161,4 +163,3 @@
 　上幸其死敵不返失衆自奔而不計吾師之勝負得¶
 　䘮是棄其師也棄其師是棄其國也詩序以為危國¶
 　亡師之本得其旨矣¶
-
